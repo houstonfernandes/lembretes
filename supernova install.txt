@@ -1,0 +1,5 @@
+. Instalacao do supernova 192.168.2.245
+	.baixar os  programas referentes ao Setor e a pasta raiz
+	.instalar BDE (baixar em programas)
+		 . configurar mem cached size 58DE e buffer 4096
+		

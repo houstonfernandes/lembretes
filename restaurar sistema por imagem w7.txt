@@ -1,0 +1,24 @@
+1 - HD clone c:\imagem\windowsSETE.img
+
+2 - após instalação => ativar a conta de administrador
+	. computador>gerenciar>usuarios || $ net user administrador /active:yes
+	. definir senha @ti2017*
+
+3 - Desativar a conta Convidado
+
+4 - Incluir o computador no dominio
+	. /computador>propriedades => alterar a identificação do computador e domínio de trabalho
+
+5 - Atualizar programas http://ninite.com
+	. Chrome, firefox, (runtime todos: java, .net, silverlight, shockwave, google backup), winrar
+
+6 - Atualizar window update
+
+7 - instalar antivirus
+	. bitdefender => mvtelles@gmail.com Oirfobac2018
+
+8 - Configurar firewall do antivirus
+	. off => proteção de porta; modo alerta; invisível
+	. comportamento de aplicativo padrão: permitir
+
+9 - Desativar firewall do windows
