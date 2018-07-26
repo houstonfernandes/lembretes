@@ -2,3 +2,7 @@
 	.destravar firewall bit defender => executar como Admin
 
 	.$ gpupdate /force //força a atualização da politica de grupos 
+]
+
+
+dfgsdfdsf

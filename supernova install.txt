@@ -3,6 +3,4 @@
 	.instalar BDE (baixar em programas)
 		 . configurar mem cached size 58DE e buffer 4096
 		
-
-
-fdfdf
+novad linha
